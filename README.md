@@ -4,7 +4,7 @@
   </a> 
 <h1 align='center'>Class 3004: Getter and Setter in Java</h1>
 <h3 align='center'>
-  Subscribe <a href="https://www.youtube.com/watch?v=I3nGvV--2IU">Learn With Yeamin</a>
+  Subscribe <a href="https://www.youtube.com/@LearnWithYeamin">Learn With Yeamin</a>
 </h3>
 </p>
 
